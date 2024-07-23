@@ -1,0 +1,14 @@
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\bin\Debug\oop_odev.exe.config
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\bin\Debug\oop_odev.exe
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\bin\Debug\oop_odev.pdb
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\obj\Debug\oop_odev.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\obj\Debug\oop_odev.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\obj\Debug\oop_odev.exe
+C:\Users\miran\Desktop\C# dersleri\oop_odev\oop_odev\obj\Debug\oop_odev.pdb
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\bin\Debug\oop_odev.exe.config
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\bin\Debug\oop_odev.exe
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\bin\Debug\oop_odev.pdb
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\obj\Debug\oop_odev.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\obj\Debug\oop_odev.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\obj\Debug\oop_odev.exe
+C:\Users\miran\Desktop\C# dersleri\10\oop_odev\oop_odev\obj\Debug\oop_odev.pdb
